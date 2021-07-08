@@ -3,7 +3,6 @@ import { BrowserRouter,Route,Switch } from "react-router-dom";
 import data from "./component/AllData"
 import Movielist from "./component/Movielist"
 import Navb from "./component/Navb";
-import Add from "./component/Add"
 import Trailer from "./component/Trailer";
  import ReactStars from "react-rating-stars-component";
 import "./Style.css"
